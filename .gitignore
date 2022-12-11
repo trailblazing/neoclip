@@ -1,5 +1,5 @@
 *.a
 *.dll
 *.so
-src/build
+src/objects
 tags
